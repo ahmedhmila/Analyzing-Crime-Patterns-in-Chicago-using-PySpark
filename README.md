@@ -4,6 +4,7 @@
 ### Overview
 
 This project was undertaken as part of a Big Data course at university. The objective is to analyze and visualize crime patterns in Chicago using the Chicago Crimes Dataset from 2001 to the present using PySpark. The analysis focuses on identifying temporal patterns and crime hotspots to provide insights that could assist in crime prevention strategies.
+[Canva presentation]([/guides/content/editing-an-existing-page](https://www.canva.com/design/DAGYRIB8p_c/3YxtFf2OJ9AVEb9yBXdKAw/view?utm_content=DAGYRIB8p_c&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 ### Dataset Description
 
