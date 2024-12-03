@@ -61,7 +61,7 @@ This project was undertaken as part of a Big Data course at university. The obje
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/chicago-crime-analysis.git
+   git clone https://github.com/ahmedhmila/chicago-crime-analysis.git
    cd chicago-crime-analysis
    ```
 
